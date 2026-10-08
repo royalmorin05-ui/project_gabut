@@ -1,0 +1,10 @@
+{
+    "name": "nexus2d",
+    "version": "0.2.0",
+    "description": "Modular 2d game engine in pure Javascript",
+    "type": "module",
+    "scripts": {
+        "test": "node --test test/"
+    },
+    "private": true
+}
